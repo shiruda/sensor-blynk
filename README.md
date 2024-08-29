@@ -9,6 +9,7 @@ This project aims to build a temperature, humidity, and air quality monitoring s
 
 # Presentation:
 Watch presentation on YouTube via the following link:
+https://www.youtube.com/watch?v=jKMaRpiDLKs
 
 # Arduino Code:
 The Arduino code used for the project has been uploaded and can be found here.
